@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: 코드를 잘짜고 꼽고 뽑는 개발자
+email: okokrt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+#twitter_username:
+github_username: krumaska
 
 # Build settings
 markdown: kramdown
